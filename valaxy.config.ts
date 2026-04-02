@@ -2,6 +2,7 @@ import type { UserThemeConfig } from 'valaxy-theme-yun'
 import { defineValaxyConfig } from 'valaxy'
 
 // add icons what you will need
+
 const safelist = [
   'i-ri-home-line',
 ]

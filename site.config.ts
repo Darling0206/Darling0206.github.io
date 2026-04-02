@@ -8,7 +8,7 @@ export default defineSiteConfig({
   author: {
     name: '荡凌',
     avatar: '/images/avatar.png'
-  },
+  }, 
   description: '醉后不知天在水，满船清梦压星河',
   social: [
     {
