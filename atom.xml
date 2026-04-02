@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://blog.danglinglab.com/</id>
+    <title>荡凌の赛博实验室</title>
+    <updated>2026-04-02T09:09:01.976Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <author>
+        <name>荡凌</name>
+        <email>i@valaxy.site</email>
+        <uri>https://valaxy.site</uri>
+    </author>
+    <link rel="alternate" href="https://blog.danglinglab.com/"/>
+    <link rel="self" href="https://blog.danglinglab.com/atom.xml"/>
+    <subtitle>醉后不知天在水，满船清梦压星河</subtitle>
+    <logo>https://blog.danglinglab.com/images/avatar.png</logo>
+    <icon>https://blog.danglinglab.com/favicon.svg</icon>
+    <rights>CC BY-NC-SA 4.0 2026 © 荡凌</rights>
+    <entry>
+        <title type="html"><![CDATA[Hello, Valaxy!]]></title>
+        <id>https://blog.danglinglab.com/posts/hello-valaxy</id>
+        <link href="https://blog.danglinglab.com/posts/hello-valaxy"/>
+        <updated>2022-04-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h2>Valaxy</h2>
+<p>Next Generation Static Blog Framework.</p>
+<p>Write your first post!</p>
+<h2>Usage</h2>
+<p>Modify `valaxy</p>
+<br/><p>访问 <a href="https://blog.danglinglab.com/posts/hello-valaxy" target="_blank">https://blog.danglinglab.com/posts/hello-valaxy</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>荡凌</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2022-04-01T00:00:00.000Z</published>
+    </entry>
+</feed>

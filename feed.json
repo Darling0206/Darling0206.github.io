@@ -1,0 +1,26 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "荡凌の赛博实验室",
+    "home_page_url": "https://blog.danglinglab.com/",
+    "feed_url": "https://blog.danglinglab.com/feed.json",
+    "description": "醉后不知天在水，满船清梦压星河",
+    "icon": "https://blog.danglinglab.com/images/avatar.png",
+    "author": {
+        "name": "荡凌",
+        "url": "https://valaxy.site"
+    },
+    "items": [
+        {
+            "id": "https://blog.danglinglab.com/posts/hello-valaxy",
+            "content_html": "<h2>Valaxy</h2>\n<p>Next Generation Static Blog Framework.</p>\n<p>Write your first post!</p>\n<h2>Usage</h2>\n<p>Modify `valaxy</p>\n<br/><p>访问 <a href=\"https://blog.danglinglab.com/posts/hello-valaxy\" target=\"_blank\">https://blog.danglinglab.com/posts/hello-valaxy</a> 阅读全文。</p>",
+            "url": "https://blog.danglinglab.com/posts/hello-valaxy",
+            "title": "Hello, Valaxy!",
+            "date_modified": "2022-04-01T00:00:00.000Z",
+            "date_published": "2022-04-01T00:00:00.000Z",
+            "author": {
+                "name": "荡凌",
+                "url": "https://valaxy.site"
+            }
+        }
+    ]
+}
