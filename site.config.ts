@@ -9,6 +9,7 @@ export default defineSiteConfig({
     name: '荡凌',
     avatar: '/images/avatar.png'
   }, 
+  favicon: '/favicon.ico',
   description: '醉后不知天在水，满船清梦压星河',
   social: [
     {
