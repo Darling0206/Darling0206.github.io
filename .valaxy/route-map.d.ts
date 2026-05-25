@@ -97,9 +97,9 @@ declare module 'vue-router/auto-routes' {
       Record<never, never>,
       | never
     >,
-    '/posts/hello-valaxy': RouteRecordInfo<
-      '/posts/hello-valaxy',
-      '/posts/hello-valaxy',
+    '/posts/一生一芯学习记录（F阶段）/一生一芯学习记录（F阶段）': RouteRecordInfo<
+      '/posts/一生一芯学习记录（F阶段）/一生一芯学习记录（F阶段）',
+      '/posts/%E4%B8%80%E7%94%9F%E4%B8%80%E8%8A%AF%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95%EF%BC%88F%E9%98%B6%E6%AE%B5%EF%BC%89/%E4%B8%80%E7%94%9F%E4%B8%80%E8%8A%AF%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95%EF%BC%88F%E9%98%B6%E6%AE%B5%EF%BC%89',
       Record<never, never>,
       Record<never, never>,
       | never
@@ -184,9 +184,9 @@ declare module 'vue-router/auto-routes' {
       views:
         | never
     }
-    'pages/posts/hello-valaxy.md': {
+    'pages/posts/一生一芯学习记录（F阶段）/一生一芯学习记录（F阶段）.md': {
       routes:
-        | '/posts/hello-valaxy'
+        | '/posts/一生一芯学习记录（F阶段）/一生一芯学习记录（F阶段）'
       views:
         | never
     }
