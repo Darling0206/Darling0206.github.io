@@ -97,6 +97,13 @@ declare module 'vue-router/auto-routes' {
       Record<never, never>,
       | never
     >,
+    '/posts/ysyx_e': RouteRecordInfo<
+      '/posts/ysyx_e',
+      '/posts/ysyx_e',
+      Record<never, never>,
+      Record<never, never>,
+      | never
+    >,
     '/posts/ysyx_f': RouteRecordInfo<
       '/posts/ysyx_f',
       '/posts/ysyx_f',
@@ -181,6 +188,12 @@ declare module 'vue-router/auto-routes' {
     'node_modules/.pnpm/valaxy-theme-yun@0.28.4_mag_504066cbfad75f6716cfc76600226f28/node_modules/valaxy-theme-yun/pages/posts/index.vue': {
       routes:
         | '/posts/'
+      views:
+        | never
+    }
+    'pages/posts/ysyx_e.md': {
+      routes:
+        | '/posts/ysyx_e'
       views:
         | never
     }
