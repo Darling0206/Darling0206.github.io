@@ -9,15 +9,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: pnpm/action-setup@v2
-        with:
-          version: latest   # 现在 Node 22 下 latest 完全没问题
       - uses: actions/setup-node@v3
         with:
           node-version: 22
-          cache: 'pnpm'
-      - run: pnpm install
-      - run: pnpm build
+          cache: 'npm'
+      - run: npm install
+      - run: npm run build
       - uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
