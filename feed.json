@@ -1,0 +1,38 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "荡凌の赛博实验室",
+    "home_page_url": "https://blog.danglinglab.com/",
+    "feed_url": "https://blog.danglinglab.com/feed.json",
+    "description": "醉后不知天在水，满船清梦压星河",
+    "icon": "https://blog.danglinglab.com/images/avatar.png",
+    "author": {
+        "name": "荡凌",
+        "url": "https://valaxy.site"
+    },
+    "items": [
+        {
+            "id": "https://blog.danglinglab.com/posts/ysyx_e",
+            "content_html": "<h1>一生一芯学习记录（E 阶段）</h1>\n<br/><p>访问 <a href=\"https://blog.danglinglab.com/posts/ysyx_e\" target=\"_blank\">https://blog.danglinglab.com/posts/ysyx_e</a> 阅读全文。</p>",
+            "url": "https://blog.danglinglab.com/posts/ysyx_e",
+            "title": "一生一芯学习记录（E阶段）",
+            "date_modified": "2026-07-06T17:21:54.000Z",
+            "date_published": "2026-07-06T17:21:54.000Z",
+            "author": {
+                "name": "荡凌",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "https://blog.danglinglab.com/posts/ysyx_f",
+            "content_html": "<h1>一生一芯学习记录（F 阶段）</h1>\n<p>本文用于记录我在学习“一生一芯”项目各个阶段的具体所做内容，包含了所有的必做题和选做题，仅供参考。<br>\n正如第一节课所说：要培养自己<strong>独立解决问题的能力</strong>。</p>\n<br/><p>访问 <a href=\"https://blog.danglinglab.com/posts/ysyx_f\" target=\"_blank\">https://blog.danglinglab.com/posts/ysyx_f</a> 阅读全文。</p>",
+            "url": "https://blog.danglinglab.com/posts/ysyx_f",
+            "title": "一生一芯学习记录（F阶段）",
+            "date_modified": "2026-05-26T11:05:54.000Z",
+            "date_published": "2026-05-26T11:05:54.000Z",
+            "author": {
+                "name": "荡凌",
+                "url": "https://valaxy.site"
+            }
+        }
+    ]
+}
