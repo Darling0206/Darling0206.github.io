@@ -97,9 +97,9 @@ declare module 'vue-router/auto-routes' {
       Record<never, never>,
       | never
     >,
-    '/posts/一生一芯学习记录（F阶段）/一生一芯学习记录（F阶段）': RouteRecordInfo<
-      '/posts/一生一芯学习记录（F阶段）/一生一芯学习记录（F阶段）',
-      '/posts/%E4%B8%80%E7%94%9F%E4%B8%80%E8%8A%AF%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95%EF%BC%88F%E9%98%B6%E6%AE%B5%EF%BC%89/%E4%B8%80%E7%94%9F%E4%B8%80%E8%8A%AF%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95%EF%BC%88F%E9%98%B6%E6%AE%B5%EF%BC%89',
+    '/posts/ysyx_f': RouteRecordInfo<
+      '/posts/ysyx_f',
+      '/posts/ysyx_f',
       Record<never, never>,
       Record<never, never>,
       | never
@@ -184,9 +184,9 @@ declare module 'vue-router/auto-routes' {
       views:
         | never
     }
-    'pages/posts/一生一芯学习记录（F阶段）/一生一芯学习记录（F阶段）.md': {
+    'pages/posts/ysyx_f.md': {
       routes:
-        | '/posts/一生一芯学习记录（F阶段）/一生一芯学习记录（F阶段）'
+        | '/posts/ysyx_f'
       views:
         | never
     }
