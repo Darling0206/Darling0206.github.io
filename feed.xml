@@ -4,7 +4,7 @@
         <title>荡凌の赛博实验室</title>
         <link>https://blog.danglinglab.com/</link>
         <description>醉后不知天在水，满船清梦压星河</description>
-        <lastBuildDate>Mon, 06 Jul 2026 10:47:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Aug 2026 07:03:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <image>
@@ -15,12 +15,13 @@
         <copyright>CC BY-NC-SA 4.0 2026 © 荡凌</copyright>
         <atom:link href="https://blog.danglinglab.com/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[一生一芯学习记录（E阶段）]]></title>
-            <link>https://blog.danglinglab.com/posts/ysyx_e</link>
-            <guid isPermaLink="false">https://blog.danglinglab.com/posts/ysyx_e</guid>
+            <title><![CDATA[一生一芯学习记录（E阶段）（一）]]></title>
+            <link>https://blog.danglinglab.com/posts/ysyx_e1</link>
+            <guid isPermaLink="false">https://blog.danglinglab.com/posts/ysyx_e1</guid>
             <pubDate>Mon, 06 Jul 2026 17:21:54 GMT</pubDate>
-            <content:encoded><![CDATA[<h1>一生一芯学习记录（E 阶段）</h1>
-<br/><p>访问 <a href="https://blog.danglinglab.com/posts/ysyx_e" target="_blank">https://blog.danglinglab.com/posts/ysyx_e</a> 阅读全文。</p>]]></content:encoded>
+            <content:encoded><![CDATA[<h1>一生一芯学习记录（E 阶段）（一）</h1>
+<p>在学习完如何用门电路搭建出CPU之后，在E阶段将会学习一些有关现代处理器设计所需要的知识，包括C语言和Verilog硬件描述语言以及Linux系统等等。由于</p>
+<br/><p>访问 <a href="https://blog.danglinglab.com/posts/ysyx_e1" target="_blank">https://blog.danglinglab.com/posts/ysyx_e1</a> 阅读全文。</p>]]></content:encoded>
             <author>i@valaxy.site (荡凌)</author>
         </item>
         <item>

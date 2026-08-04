@@ -11,10 +11,10 @@
     },
     "items": [
         {
-            "id": "https://blog.danglinglab.com/posts/ysyx_e",
-            "content_html": "<h1>一生一芯学习记录（E 阶段）</h1>\n<br/><p>访问 <a href=\"https://blog.danglinglab.com/posts/ysyx_e\" target=\"_blank\">https://blog.danglinglab.com/posts/ysyx_e</a> 阅读全文。</p>",
-            "url": "https://blog.danglinglab.com/posts/ysyx_e",
-            "title": "一生一芯学习记录（E阶段）",
+            "id": "https://blog.danglinglab.com/posts/ysyx_e1",
+            "content_html": "<h1>一生一芯学习记录（E 阶段）（一）</h1>\n<p>在学习完如何用门电路搭建出CPU之后，在E阶段将会学习一些有关现代处理器设计所需要的知识，包括C语言和Verilog硬件描述语言以及Linux系统等等。由于</p>\n<br/><p>访问 <a href=\"https://blog.danglinglab.com/posts/ysyx_e1\" target=\"_blank\">https://blog.danglinglab.com/posts/ysyx_e1</a> 阅读全文。</p>",
+            "url": "https://blog.danglinglab.com/posts/ysyx_e1",
+            "title": "一生一芯学习记录（E阶段）（一）",
             "date_modified": "2026-07-06T17:21:54.000Z",
             "date_published": "2026-07-06T17:21:54.000Z",
             "author": {

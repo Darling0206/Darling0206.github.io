@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.danglinglab.com/</id>
     <title>荡凌の赛博实验室</title>
-    <updated>2026-07-06T10:47:18.902Z</updated>
+    <updated>2026-08-04T07:03:43.953Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>荡凌</name>
@@ -16,12 +16,13 @@
     <icon>https://blog.danglinglab.com/favicon.svg</icon>
     <rights>CC BY-NC-SA 4.0 2026 © 荡凌</rights>
     <entry>
-        <title type="html"><![CDATA[一生一芯学习记录（E阶段）]]></title>
-        <id>https://blog.danglinglab.com/posts/ysyx_e</id>
-        <link href="https://blog.danglinglab.com/posts/ysyx_e"/>
+        <title type="html"><![CDATA[一生一芯学习记录（E阶段）（一）]]></title>
+        <id>https://blog.danglinglab.com/posts/ysyx_e1</id>
+        <link href="https://blog.danglinglab.com/posts/ysyx_e1"/>
         <updated>2026-07-06T17:21:54.000Z</updated>
-        <content type="html"><![CDATA[<h1>一生一芯学习记录（E 阶段）</h1>
-<br/><p>访问 <a href="https://blog.danglinglab.com/posts/ysyx_e" target="_blank">https://blog.danglinglab.com/posts/ysyx_e</a> 阅读全文。</p>]]></content>
+        <content type="html"><![CDATA[<h1>一生一芯学习记录（E 阶段）（一）</h1>
+<p>在学习完如何用门电路搭建出CPU之后，在E阶段将会学习一些有关现代处理器设计所需要的知识，包括C语言和Verilog硬件描述语言以及Linux系统等等。由于</p>
+<br/><p>访问 <a href="https://blog.danglinglab.com/posts/ysyx_e1" target="_blank">https://blog.danglinglab.com/posts/ysyx_e1</a> 阅读全文。</p>]]></content>
         <author>
             <name>荡凌</name>
             <email>i@valaxy.site</email>
