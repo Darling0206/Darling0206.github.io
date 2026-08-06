@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://blog.danglinglab.com/posts/ysyx_e2",
+            "content_html": "<h1>一生一芯学习记录（E 阶段）（二）</h1>\n<h2>E2 C语言程序设计</h2>\n<p>在学习完C语言入门部分之后，接下来几章内容将逐渐探究C语言的本质。</p>\n<h3>第14章：计算机中数的表示</h3>\n<p>这章的大部分内容在</p>\n<br/><p>访问 <a href=\"https://blog.danglinglab.com/posts/ysyx_e2\" target=\"_blank\">https://blog.danglinglab.com/posts/ysyx_e2</a> 阅读全文。</p>",
+            "url": "https://blog.danglinglab.com/posts/ysyx_e2",
+            "title": "一生一芯学习记录（E阶段）（二）",
+            "date_modified": "2026-08-04T15:08:00.000Z",
+            "date_published": "2026-08-04T15:08:00.000Z",
+            "author": {
+                "name": "荡凌",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
             "id": "https://blog.danglinglab.com/posts/ysyx_e1",
             "content_html": "<h1>一生一芯学习记录（E 阶段）（一）</h1>\n<p>在学习完如何用门电路搭建出CPU之后，在E阶段将会学习一些有关现代处理器设计所需要的知识，包括C语言和Verilog硬件描述语言以及Linux系统等等。由于</p>\n<br/><p>访问 <a href=\"https://blog.danglinglab.com/posts/ysyx_e1\" target=\"_blank\">https://blog.danglinglab.com/posts/ysyx_e1</a> 阅读全文。</p>",
             "url": "https://blog.danglinglab.com/posts/ysyx_e1",
@@ -24,7 +36,7 @@
         },
         {
             "id": "https://blog.danglinglab.com/posts/ysyx_f",
-            "content_html": "<h1>一生一芯学习记录（F 阶段）</h1>\n<p>本文用于记录我在学习“一生一芯”项目各个阶段的具体所做内容，包含了所有的必做题和选做题，仅供参考。<br>\n正如第一节课所说：要培养自己<strong>独立解决问题的能力</strong>。</p>\n<br/><p>访问 <a href=\"https://blog.danglinglab.com/posts/ysyx_f\" target=\"_blank\">https://blog.danglinglab.com/posts/ysyx_f</a> 阅读全文。</p>",
+            "content_html": "<h1>一生一芯学习记录（F 阶段）</h1>\n<p>本文用于记录我在学习“一生一芯”项目各个阶段的具体所做内容，包含了所有的必做题和选做题，仅供参考。 F 阶段采用的讲义是v24.07，E 阶段及之后采用v26.0</p>\n<br/><p>访问 <a href=\"https://blog.danglinglab.com/posts/ysyx_f\" target=\"_blank\">https://blog.danglinglab.com/posts/ysyx_f</a> 阅读全文。</p>",
             "url": "https://blog.danglinglab.com/posts/ysyx_f",
             "title": "一生一芯学习记录（F阶段）",
             "date_modified": "2026-05-26T11:05:54.000Z",
