@@ -97,9 +97,16 @@ declare module 'vue-router/auto-routes' {
       Record<never, never>,
       | never
     >,
-    '/posts/ysyx_e': RouteRecordInfo<
-      '/posts/ysyx_e',
-      '/posts/ysyx_e',
+    '/posts/ysyx_e1': RouteRecordInfo<
+      '/posts/ysyx_e1',
+      '/posts/ysyx_e1',
+      Record<never, never>,
+      Record<never, never>,
+      | never
+    >,
+    '/posts/ysyx_e2': RouteRecordInfo<
+      '/posts/ysyx_e2',
+      '/posts/ysyx_e2',
       Record<never, never>,
       Record<never, never>,
       | never
@@ -191,9 +198,15 @@ declare module 'vue-router/auto-routes' {
       views:
         | never
     }
-    'pages/posts/ysyx_e.md': {
+    'pages/posts/ysyx_e1.md': {
       routes:
-        | '/posts/ysyx_e'
+        | '/posts/ysyx_e1'
+      views:
+        | never
+    }
+    'pages/posts/ysyx_e2.md': {
+      routes:
+        | '/posts/ysyx_e2'
       views:
         | never
     }
