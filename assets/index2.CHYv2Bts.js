@@ -1,1 +1,0 @@
-import{G as e}from"./theme.Cvth4caX.js";var t=e({defaults:{"@type":`AggregateRating`}});export{t as aggregateRatingResolver};

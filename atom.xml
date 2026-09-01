@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.danglinglab.com/</id>
     <title>荡凌の赛博实验室</title>
-    <updated>2026-08-06T08:11:43.605Z</updated>
+    <updated>2026-09-01T08:16:39.537Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>荡凌</name>
@@ -21,10 +21,9 @@
         <link href="https://blog.danglinglab.com/posts/ysyx_e2"/>
         <updated>2026-08-04T15:08:00.000Z</updated>
         <content type="html"><![CDATA[<h1>一生一芯学习记录（E 阶段）（二）</h1>
-<h2>E2 C语言程序设计</h2>
-<p>在学习完C语言入门部分之后，接下来几章内容将逐渐探究C语言的本质。</p>
-<h3>第14章：计算机中数的表示</h3>
-<p>这章的大部分内容在</p>
+<p>这是E2阶段的最后一部分内容，接下来将会回到E1学习硬件描述语言。由于在这个阶段我们所用是在线编译器，因此部分习题无法解答。</p>
+<hr>
+<h2>E2 C语言</h2>
 <br/><p>访问 <a href="https://blog.danglinglab.com/posts/ysyx_e2" target="_blank">https://blog.danglinglab.com/posts/ysyx_e2</a> 阅读全文。</p>]]></content>
         <author>
             <name>荡凌</name>

@@ -4,7 +4,7 @@
         <title>荡凌の赛博实验室</title>
         <link>https://blog.danglinglab.com/</link>
         <description>醉后不知天在水，满船清梦压星河</description>
-        <lastBuildDate>Thu, 06 Aug 2026 08:11:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Sep 2026 08:16:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <image>
@@ -20,10 +20,9 @@
             <guid isPermaLink="false">https://blog.danglinglab.com/posts/ysyx_e2</guid>
             <pubDate>Tue, 04 Aug 2026 15:08:00 GMT</pubDate>
             <content:encoded><![CDATA[<h1>一生一芯学习记录（E 阶段）（二）</h1>
-<h2>E2 C语言程序设计</h2>
-<p>在学习完C语言入门部分之后，接下来几章内容将逐渐探究C语言的本质。</p>
-<h3>第14章：计算机中数的表示</h3>
-<p>这章的大部分内容在</p>
+<p>这是E2阶段的最后一部分内容，接下来将会回到E1学习硬件描述语言。由于在这个阶段我们所用是在线编译器，因此部分习题无法解答。</p>
+<hr>
+<h2>E2 C语言</h2>
 <br/><p>访问 <a href="https://blog.danglinglab.com/posts/ysyx_e2" target="_blank">https://blog.danglinglab.com/posts/ysyx_e2</a> 阅读全文。</p>]]></content:encoded>
             <author>i@valaxy.site (荡凌)</author>
         </item>
