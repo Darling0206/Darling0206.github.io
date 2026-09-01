@@ -1,0 +1,1 @@
+import{G as e}from"./theme.NuYNBcuM.js";var t=e({defaults:{"@type":`AggregateRating`}});export{t as aggregateRatingResolver};
