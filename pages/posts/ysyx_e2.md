@@ -3,7 +3,8 @@ layout: post
 title: 一生一芯学习记录（E阶段）（二）
 date: 2026-08-04 15:08
 categories: 一生一芯
-tags: "C语言"
+tags: 
+    - C语言
 ---
 
 # 一生一芯学习记录（E 阶段）（二）
