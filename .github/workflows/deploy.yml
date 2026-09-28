@@ -16,6 +16,12 @@ jobs:
           cache: 'pnpm'
       - run: pnpm install
       - run: pnpm build
+      # `valaxy build --ssg` 在构建失败时仍会以退出码 0 结束，
+      # 若不校验产物，残缺的 dist 会被静默发布成 404 站点。
+      - name: Verify build output
+        run: |
+          test -f dist/index.html || { echo "::error::dist/index.html missing - build failed silently, refusing to deploy"; exit 1; }
+          test -d dist/assets   || { echo "::error::dist/assets missing - build failed silently, refusing to deploy"; exit 1; }
       - uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}

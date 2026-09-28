@@ -50,12 +50,13 @@ export default defineValaxyConfig<UserThemeConfig>({
     },
   },
 
-unocss: {
+  unocss: {
     safelist,
-    blocklist: [
-      /^\[.*\]$/,
-      /^\$.*/,
-      /^[0-9]+:[0-9]+$/,
-    ],
+    // 只屏蔽 Verilog 位宽这类 [数字:数字] 记号。
+    // 它们会被 UnoCSS 当成 arbitrary property，生成 `.\[15\:0\]{15:0;}` 这种非法 CSS，
+    // 导致 lightningcss 压缩抛 SyntaxError、SSG 构建中断（且 valaxy 仍以退出码 0 结束）。
+    // 切勿改成 /^\[.*\]$/ 之类的宽泛规则：那会连带剥掉 UnoCSS 生成的 attributify
+    // 选择器（[m~="0"]、[flex~=center] 等）与 @property --un-*，造成界面样式丢失。
+    blocklist: [/^\[\d+:\d+\]$/],
   },
 })
