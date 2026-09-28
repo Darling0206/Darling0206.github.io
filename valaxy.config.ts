@@ -50,5 +50,12 @@ export default defineValaxyConfig<UserThemeConfig>({
     },
   },
 
-  unocss: { safelist },
+unocss: {
+    safelist,
+    blocklist: [
+      /^\[.*\]$/,
+      /^\$.*/,
+      /^[0-9]+:[0-9]+$/,
+    ],
+  },
 })
