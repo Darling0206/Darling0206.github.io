@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://blog.danglinglab.com/posts/ysyx_e3",
+            "content_html": "<h1>一生一芯学习记录（E 阶段）（三）</h1>\n<p>接下来开始学习硬件描述语言Verilog，主要是记录一些语法内容和习题的答案。当然我们并不是将HDLBits上的习题全部做完，而是按照讲义内容去完成相应的习</p>\n<br/><p>访问 <a href=\"https://blog.danglinglab.com/posts/ysyx_e3\" target=\"_blank\">https://blog.danglinglab.com/posts/ysyx_e3</a> 阅读全文。</p>",
+            "url": "https://blog.danglinglab.com/posts/ysyx_e3",
+            "title": "一生一芯学习记录（E阶段）（三）",
+            "date_modified": "2026-09-28T16:57:00.000Z",
+            "date_published": "2026-09-28T16:57:00.000Z",
+            "author": {
+                "name": "荡凌",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
             "id": "https://blog.danglinglab.com/posts/ysyx_e2",
             "content_html": "<h1>一生一芯学习记录（E 阶段）（二）</h1>\n<p>这是E2阶段的最后一部分内容，接下来将会回到E1学习硬件描述语言。由于在这个阶段我们所用是在线编译器，因此部分习题无法解答。</p>\n<hr>\n<h2>E2 C语言</h2>\n<br/><p>访问 <a href=\"https://blog.danglinglab.com/posts/ysyx_e2\" target=\"_blank\">https://blog.danglinglab.com/posts/ysyx_e2</a> 阅读全文。</p>",
             "url": "https://blog.danglinglab.com/posts/ysyx_e2",

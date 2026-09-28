@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.danglinglab.com/</id>
     <title>荡凌の赛博实验室</title>
-    <updated>2026-09-01T09:00:30.522Z</updated>
+    <updated>2026-09-28T08:59:03.748Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>荡凌</name>
@@ -15,6 +15,21 @@
     <logo>https://blog.danglinglab.com/images/avatar.png</logo>
     <icon>https://blog.danglinglab.com/favicon.svg</icon>
     <rights>CC BY-NC-SA 4.0 2026 © 荡凌</rights>
+    <entry>
+        <title type="html"><![CDATA[一生一芯学习记录（E阶段）（三）]]></title>
+        <id>https://blog.danglinglab.com/posts/ysyx_e3</id>
+        <link href="https://blog.danglinglab.com/posts/ysyx_e3"/>
+        <updated>2026-09-28T16:57:00.000Z</updated>
+        <content type="html"><![CDATA[<h1>一生一芯学习记录（E 阶段）（三）</h1>
+<p>接下来开始学习硬件描述语言Verilog，主要是记录一些语法内容和习题的答案。当然我们并不是将HDLBits上的习题全部做完，而是按照讲义内容去完成相应的习</p>
+<br/><p>访问 <a href="https://blog.danglinglab.com/posts/ysyx_e3" target="_blank">https://blog.danglinglab.com/posts/ysyx_e3</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>荡凌</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2026-09-28T16:57:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一生一芯学习记录（E阶段）（二）]]></title>
         <id>https://blog.danglinglab.com/posts/ysyx_e2</id>
